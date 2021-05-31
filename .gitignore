@@ -1,0 +1,8 @@
+Api/node_modules/
+
+Api/functions/node_modules/
+Api/functions/key/
+
+
+*.log
+.DS_Store
